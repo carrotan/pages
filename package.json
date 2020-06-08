@@ -2,7 +2,7 @@
   "name": "econindex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://carrotan.github.io/pages/.",
+  "homepage": "https://carrotan.github.io/pages/",
   "scripts": {
     "serve": "vue-cli-service serve  --config webpack.config.js",
     "build": "vue-cli-service build",
