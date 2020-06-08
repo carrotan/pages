@@ -1,0 +1,25 @@
+$light: #fff;
+$dark: #444;
+// 主蓝色
+$positive: #409EFF;
+
+// 背景灰
+$backgroundc: #f5f7fa;
+
+// 边框颜色
+$borderc: #E7E7E7;
+// 多数的padding
+$padding-l: 30px;
+$padding-m: 20px;
+$padding-s: 15px;
+$padding-t: 10px;
+
+$shadow: 0px 1px 5px 0 rgba($dark, 0.17);
+$border: 1px solid $borderc;
+
+/* 超出部分显示省略号 */
+%overflow-e {
+  overflow: hidden;
+  text-overflow:ellipsis;
+  white-space: nowrap;
+}
